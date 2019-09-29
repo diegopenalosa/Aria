@@ -14,7 +14,7 @@
 								<p style="margin-bottom: 0.2rem;">Aria PSW</p>
 							</li>
 							<li role="presentation">
-								<p style="margin-bottom: 0.2rem;">Carrera 8A # 97-62</p>
+								<p style="margin-bottom: 0.2rem;">Calle 117 No. 6A-60</p>
 							</li>
 							<li role="presentation">
 								<p style="margin-bottom: 0.2rem;">Bogot&aacute;, Colombia</p>

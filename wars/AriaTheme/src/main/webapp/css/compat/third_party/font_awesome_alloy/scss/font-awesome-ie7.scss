@@ -1041,16 +1041,6 @@ a [class*=" icon-"] {
 }
 
 
-.icon-google-plus-sign {
-  @include ie7icon('&#xf0d4;');
-}
-
-
-.icon-google-plus {
-  @include ie7icon('&#xf0d5;');
-}
-
-
 .icon-money {
   @include ie7icon('&#xf0d6;');
 }
